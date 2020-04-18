@@ -14,8 +14,8 @@ public class OleadasAleatorias : MonoBehaviour
 
 	void Awake () 
 	{
-		TiempoMinimo = TiempoMinimoBase / ((GM.Dificultad / 2) + 1);
-		TiempoMaximo = TiempoMaximoBase / ((GM.Dificultad / 2) + 1);
+		TiempoMinimo = TiempoMinimoBase / GM.Dificultad;
+		TiempoMaximo = TiempoMaximoBase / GM.Dificultad;
 
 		Aleatorio = Random.Range (TiempoMinimo, TiempoMaximo + 1);
 		Invoke("Instanciador", Aleatorio / 5);

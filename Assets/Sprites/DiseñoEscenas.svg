@@ -61,9 +61,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="7538.4778"
-     inkscape:cy="347.33163"
+     inkscape:zoom="0.5"
+     inkscape:cx="6685.4407"
+     inkscape:cy="417.37807"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -624,11 +624,55 @@
        id="rect1091"
        width="31.75"
        height="29.633333"
-       x="1903.6958"
-       y="230.43138"
+       x="1901.825"
+       y="240.90834"
        ry="0"
        rx="0"
        inkscape:export-xdpi="93"
        inkscape:export-ydpi="93" />
+    <flowRoot
+       inkscape:export-ydpi="93"
+       inkscape:export-xdpi="93"
+       transform="matrix(0.33824365,0,0,0.24796015,1650.728,124.24214)"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot1099"
+       xml:space="preserve"><flowRegion
+         style="font-size:96px;text-align:center;text-anchor:middle"
+         id="flowRegion1095"><rect
+           style="font-size:96px;text-align:center;text-anchor:middle"
+           y="457.83932"
+           x="-614.17273"
+           height="379.81738"
+           width="894.99518"
+           id="rect1093" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.9994278px;font-family:'CF Nightmare PERSONAL';-inkscape-font-specification:'CF Nightmare PERSONAL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+         id="flowPara1097">BACK</flowPara></flowRoot>    <g
+       inkscape:export-ydpi="93"
+       inkscape:export-xdpi="93"
+       transform="matrix(0.7203887,0,0,0.7203887,775.1493,378.17869)"
+       id="g1111">
+      <rect
+         style="opacity:0.8;fill:#520000;fill-opacity:1;stroke:#ff0000;stroke-width:1.0851754;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1101"
+         width="38.889999"
+         height="15.809558"
+         x="1442.3302"
+         y="-188.7455"
+         ry="7.904779" />
+      <flowRoot
+         transform="matrix(0.16571613,0,0,0.12148343,1491.2792,-243.35911)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Another Danger - Demo';-inkscape-font-specification:'Another Danger - Demo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+         id="flowRoot1109"
+         xml:space="preserve"><flowRegion
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Another Danger - Demo';-inkscape-font-specification:'Another Danger - Demo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+           id="flowRegion1105"><rect
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Another Danger - Demo';-inkscape-font-specification:'Another Danger - Demo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1"
+             y="457.83932"
+             x="-614.17273"
+             height="356.96027"
+             width="880.70947"
+             id="rect1103" /></flowRegion><flowPara
+           id="flowPara1107"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.9994278px;font-family:'CF Nightmare PERSONAL';-inkscape-font-specification:'CF Nightmare PERSONAL, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">EXIT</flowPara></flowRoot>    </g>
   </g>
 </svg>
